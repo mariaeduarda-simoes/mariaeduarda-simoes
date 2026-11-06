@@ -38,11 +38,11 @@ Ainda não publiquei projetos aqui, mas estou começando. Os primeiros repositó
 
 <!--
 ATIVAR QUANDO TIVER UM PROJETO:
-apague esta linha e a última linha do bloco, e troque mariaeduarda-simoes e NOME-DO-REPO
+apague esta linha e a última linha do bloco, e troque NOME-DO-REPO
 
 <p align="center">
-  <a href="https://github.com/mariaeduarda-simoes/mariaeduarda-simoes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda-simoes&repo=mariaeduarda-simoes&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="Projeto" />
+  <a href="https://github.com/mariaeduarda-simoes/NOME-DO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda-simoes&repo=NOME-DO-REPO&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="Projeto" />
   </a>
 </p>
 -->
@@ -63,17 +63,17 @@ apague esta linha e a última linha do bloco, e troque mariaeduarda-simoes e NOM
 
 <!--
 ATIVAR QUANDO TIVER COMMITS E REPOSITÓRIOS PÚBLICOS:
-apague esta linha e a última linha do bloco, e troque SEU-USUARIO pelo seu username
+apague esta linha e a última linha do bloco
 
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&title_color=A78BFA&text_color=C9C9C9&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-simoes&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda-simoes&layout=compact&theme=transparent&title_color=A78BFA&text_color=C9C9C9&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=dark&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mariaeduarda-simoes&theme=dark&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
