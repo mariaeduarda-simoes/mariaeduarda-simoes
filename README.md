@@ -16,7 +16,7 @@
 
 <hr/>
 
-<h2>💜 Sobre mim</h2>
+<h2>💜 sobre mim</h2>
 
 <p>
   Sou <b>Maria Eduarda Simoes Silva</b>, estudante de Engenharia de Software na <b>UDF</b>, em Brasília-DF.
@@ -26,7 +26,12 @@
   Estou construindo minha base em <b>Python</b> e <b>lógica de programação</b>, e meu foco agora é conseguir um <b>estágio na área</b>.
 </p>
 
+<p>
+  Procurando estágio em Engenharia de Software.
+</p>
+
 <hr/>
+
 
 <h2> ■ Tecnologias</h2>
 
@@ -44,8 +49,8 @@
 </p>
 
 <!--
-ATIVAR QUANDO TIVER UM PROJETO:
-apague esta linha e a última linha do bloco, e troque NOME-DO-REPO
+ATIVAR QANDO TIVER UM PROJETO:
+apague esta linha e a última linha do bloco, e troque NOME-DO-REPOU
 
 <p align="center">
   <a href="https://github.com/mariaeduarda-simoes/NOME-DO-REPO">
@@ -89,7 +94,7 @@ apague esta linha e a última linha do bloco
 <h2> ■ Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/COLE-AQUI-O-USUARIO"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/maduh.xz"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge" alt="Instagram" /></a>&nbsp;<a href="mailto:dudasimoesdf@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
 </p>
 
 <br/>
