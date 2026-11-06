@@ -30,12 +30,9 @@
 
 <h2>🛠️ Tecnologias</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-intermedi%C3%A1rio-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Python intermediário" />
+  <img src="https://skillicons.dev/icons?i=python,html&theme=dark" alt="Python, HTML" />
 </p>
 
 <hr/>
