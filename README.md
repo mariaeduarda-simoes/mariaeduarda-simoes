@@ -38,7 +38,7 @@ Ainda não publiquei projetos aqui, mas estou começando. Os primeiros repositó
 
 <!--
 ATIVAR QUANDO TIVER UM PROJETO:
-apague esta linha e a última linha do bloco, e troque SEU-USUARIO e NOME-DO-REPO
+apague esta linha e a última linha do bloco, e troque mariaeduarda-simoes e NOME-DO-REPO
 
 <p align="center">
   <a href="https://github.com/mariaeduarda-simoes/mariaeduarda-simoes">
@@ -77,7 +77,7 @@ apague esta linha e a última linha do bloco, e troque SEU-USUARIO pelo seu user
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaeduarda-simoes&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
