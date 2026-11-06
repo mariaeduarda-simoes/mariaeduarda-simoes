@@ -28,7 +28,7 @@
 
 <hr/>
 
-<h2>🛠️ Tecnologias</h2>
+<h2> ■ Tecnologias</h2>
 
 
 <p>
@@ -37,7 +37,7 @@
 
 <hr/>
 
-<h2>📁 Projetos</h2>
+<h2> ■ Projetos</h2>
 
 <p>
   Ainda não publiquei projetos aqui, mas estou começando. Os primeiros repositórios vão aparecer nesta seção.
@@ -56,7 +56,7 @@ apague esta linha e a última linha do bloco, e troque NOME-DO-REPO
 
 <hr/>
 
-<h2>🐍 Contribuições</h2>
+<h2> ■ Contribuições</h2>
 
 <p align="center">
   <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mariaeduarda-simoes/mariaeduarda-simoes/output/github-snake-dark.svg" />
@@ -68,7 +68,7 @@ apague esta linha e a última linha do bloco, e troque NOME-DO-REPO
 ATIVAR QUANDO TIVER COMMITS E REPOSITÓRIOS PÚBLICOS:
 apague esta linha e a última linha do bloco
 
-<h2>📊 GitHub</h2>
+<h2> ■ GitHub</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-simoes&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="GitHub Stats" />
@@ -86,7 +86,7 @@ apague esta linha e a última linha do bloco
 <hr/>
 -->
 
-<h2>💌 Contato</h2>
+<h2> ■ Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/COLE-AQUI-O-USUARIO"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge" alt="Instagram" /></a>
