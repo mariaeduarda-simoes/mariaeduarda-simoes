@@ -93,10 +93,10 @@ apague esta linha e a última linha do bloco
 
 <h2> ■ Contato</h2>
 
-<p align="center">
+<p align="center" style="margin-top: 100px;">
   <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/maduh.xz"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge" alt="Instagram" /></a>&nbsp;<a href="mailto:dudasimoesdf@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=60&section=footer&text=um%20commit%20por%20vez&fontSize=16&fontColor=FFFFFF" alt="Rodapé" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer&animation=twinkling" />
