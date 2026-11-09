@@ -49,7 +49,13 @@
 <h2>  ■ Projetos</h2>
 
 <p>
-  Atualmente, estou desenvolvendo minhas habilidades práticas em programação por meio de estudos em Python e exercícios de lógica de programação.
+  Meu primeiro projeto em Python: um gerenciador de finanças pessoais no terminal, com cadastro de receitas e despesas, saldo, total por categoria e dados salvos em JSON.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda-simoes&repo=gerenciador-financas-python&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="Gerenciador de Finanças" />
+  </a>
 </p>
 
 <p>
