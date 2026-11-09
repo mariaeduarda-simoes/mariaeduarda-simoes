@@ -41,7 +41,7 @@
 <p>
   <b>Python</b> · Em aprendizado (variáveis, condicionais e laços)<br/>
   <b>GitHub</b> · Utilizo a plataforma<br/>
-  <b>Git</b> · Em aprendizado (commits, push e pull)
+  <b>Git</b> · Commits, push e versionamento de projetos
 </p>
 
 <hr/>
