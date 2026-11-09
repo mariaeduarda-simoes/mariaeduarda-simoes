@@ -76,7 +76,7 @@
 <h2> ■ Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:dudasimoesdf@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
 </p>
 
 <img
