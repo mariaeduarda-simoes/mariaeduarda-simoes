@@ -16,54 +16,81 @@
 
 <hr/>
 
-<h2> 💜 Sobre mim</h2>
+<h2>💜 Sobre mim</h2>
 
 <p>
   Sou estudante de Engenharia de Software na <b>UDF</b>, em Brasília-DF.
 </p>
 
 <p>
-  Atualmente, desenvolvo meus conhecimentos em <b>lógica de programação</b> e <b>Python</b>, estudando variáveis, estruturas condicionais e laços de repetição.
+  Estou desenvolvendo meus conhecimentos em <b>lógica de programação</b> e <b>Python</b>, e já apliquei o que aprendi em um projeto próprio.
 </p>
 
 <p>
-  Tenho interesse em desenvolvimento de software e busco uma oportunidade de <b>estágio em TI</b> para aplicar meus conhecimentos e evoluir profissionalmente.
+  <b>Objetivo:</b> conseguir um estágio em desenvolvimento de software/TI para aplicar o que estudo, aprender com um time e evoluir profissionalmente.
 </p>
 
 <hr/>
 
-<h2> ■ Tecnologias</h2>
+<h2>💜 Tecnologias</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" alt="Python, Git" />
+  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" alt="Python e Git" />
 </p>
 
 <p>
-  <b>Python</b> · Em aprendizado (variáveis, condicionais e laços)<br/>
+  <b>Python</b> · Nível intermediário: entrada de dados no terminal, estruturas condicionais e laços, manipulação de arquivos JSON<br/>
   <b>Git</b> · Commits, push e versionamento de projetos
 </p>
 
 <hr/>
 
-<h2> ■ Projetos</h2>
+<h2>💜 Projetos</h2>
 
-<p align="center">
-  Meu primeiro projeto em Python: um gerenciador de finanças pessoais no terminal, com cadastro de receitas e despesas, saldo, total por categoria e dados salvos em JSON.
+<h3>Gerenciador de Finanças Pessoais</h3>
+
+<p>
+  Meu primeiro projeto em Python: um programa de terminal para controlar finanças pessoais.
 </p>
 
-<p align="center">
+<ul>
+  <li>Cadastro de receitas e despesas</li>
+  <li>Cálculo de saldo</li>
+  <li>Total por categoria</li>
+  <li>Dados salvos em arquivo JSON</li>
+</ul>
+
+<p>
+  <b>Tecnologias:</b> Python, JSON
+</p>
+
+<p>
   <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python">
-    <img src="https://img.shields.io/badge/Gerenciador_de_Finanças-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Gerenciador de Finanças" />
+    <img src="https://img.shields.io/badge/Ver_projeto-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Ver projeto Gerenciador de Finanças" />
   </a>
 </p>
 
+<!-- Quando tiver o GIF/print, descomente:
 <p align="center">
-  Novos projetos em breve, destacando suas funcionalidades, tecnologias utilizadas e conhecimentos adquiridos durante o desenvolvimento.
+  <img src="assets/demo.gif" width="600" alt="Demonstração do gerenciador de finanças" />
 </p>
+-->
+
+<p>Novos projetos em breve.</p>
 
 <hr/>
 
-<h2> ■ Contribuições</h2>
+<h2>💜 Estudando agora</h2>
+
+<ul>
+  <li>Python: funções e organização de código</li>
+  <li>Git e GitHub: boas práticas de commits e documentação</li>
+  <li>Próximo projeto: portfólio pessoal</li>
+</ul>
+
+<hr/>
+
+<h2>💜 Contribuições</h2>
 
 <p align="center">
   <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mariaeduarda-simoes/mariaeduarda-simoes/output/github-snake-dark.svg" />
@@ -71,8 +98,7 @@
 
 <hr/>
 
-
-<h2> ■ Contato</h2>
+<h2>💜 Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
@@ -80,5 +106,5 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer&animation=twinkling&text=Desenvolvimento%20de%20Software&fontColor=FFFFFF&fontSize=25&desc=Estudando%20programa%C3%A7%C3%A3o%20e%20colocando%20meus%20conhecimentos%20em%20pr%C3%A1tica&descSize=15&descColor=FFFFFF&descAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer&text=Desenvolvimento%20de%20Software&fontColor=FFFFFF&fontSize=25&desc=Estudando%20programa%C3%A7%C3%A3o%20e%20colocando%20meus%20conhecimentos%20em%20pr%C3%A1tica&descSize=15&descColor=FFFFFF&descAlignY=70"
 />
