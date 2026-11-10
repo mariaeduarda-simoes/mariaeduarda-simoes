@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-8B5CF6?style=flat-square&labelColor=1F2937" alt="Brasília" />
-  <img src="https://img.shields.io/badge/Python-Em%20aprendizado-8B5CF6?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-8B5CF6?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-8B5CF6?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
 </p>
 
