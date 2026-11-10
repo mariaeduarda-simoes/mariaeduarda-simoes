@@ -16,7 +16,7 @@
 
 <hr/>
 
-<h2>💜 Sobre mim</h2>
+<h2> 💜 Sobre mim</h2>
 
 <p>
   Sou estudante de Engenharia de Software na <b>UDF</b>, em Brasília-DF.
@@ -35,18 +35,17 @@
 <h2> ■ Tecnologias</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,git&theme=dark" alt="Python, GitHub, Git" />
+  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" alt="Python, Git" />
 </p>
 
 <p>
   <b>Python</b> · Em aprendizado (variáveis, condicionais e laços)<br/>
-  <b>GitHub</b> · Utilizo a plataforma<br/>
   <b>Git</b> · Commits, push e versionamento de projetos
 </p>
 
 <hr/>
 
-<h2>■ Projetos</h2>
+<h2> ■ Projetos</h2>
 
 <p align="center">
   Meu primeiro projeto em Python: um gerenciador de finanças pessoais no terminal, com cadastro de receitas e despesas, saldo, total por categoria e dados salvos em JSON.
@@ -59,7 +58,7 @@
 </p>
 
 <p align="center">
-  Esta seção será atualizada com projetos próprios, destacando suas funcionalidades, tecnologias utilizadas e conhecimentos adquiridos durante o desenvolvimento.
+  Novos projetos em breve, destacando suas funcionalidades, tecnologias utilizadas e conhecimentos adquiridos durante o desenvolvimento.
 </p>
 
 <hr/>
