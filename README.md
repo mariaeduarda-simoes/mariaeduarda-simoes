@@ -46,19 +46,19 @@
 
 <hr/>
 
-<h2>  ■ Projetos</h2>
+<h2>■ Projetos</h2>
 
-<p>
+<p align="center">
   Meu primeiro projeto em Python: um gerenciador de finanças pessoais no terminal, com cadastro de receitas e despesas, saldo, total por categoria e dados salvos em JSON.
 </p>
 
 <p align="center">
   <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda-simoes&repo=gerenciador-financas-python&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&hide_border=true" alt="Gerenciador de Finanças" />
+    <img src="https://img.shields.io/badge/Gerenciador_de_Finanças-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Gerenciador de Finanças" />
   </a>
 </p>
 
-<p>
+<p align="center">
   Esta seção será atualizada com projetos próprios, destacando suas funcionalidades, tecnologias utilizadas e conhecimentos adquiridos durante o desenvolvimento.
 </p>
 
