@@ -45,6 +45,22 @@
 
 <hr/>
 
+<h2>💜 Certificações</h2>
+
+<p>
+  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Medalha Python Essentials 1 - Cisco" width="130" />
+  </a>
+</p>
+
+<p>
+  <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute<br/>
+  Conceitos de programação, sintaxe e semântica do Python e resolução de desafios de código.<br/>
+  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">Verificar medalha no Credly</a>
+</p>
+
+<hr/>
+
 <h2>💜 Projetos</h2>
 
 <h3>Gerenciador de Finanças Pessoais</h3>
