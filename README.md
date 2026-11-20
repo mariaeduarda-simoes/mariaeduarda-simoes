@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=8B5CF6&height=160&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&height=36&lines=Estudante+de+Engenharia+de+Software;Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&height=36&lines=Estudante+de+Engenharia+de+Software;Python%2C+APIs+e+desenvolvimento+web;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -23,7 +23,15 @@
 </p>
 
 <p>
-  Estou desenvolvendo meus conhecimentos em <b>lógica de programação</b> e <b>Python</b>, e já apliquei o que aprendi em um projeto próprio.
+  Venho desenvolvendo meus conhecimentos em <b>lógica de programação</b>, <b>Python</b> e <b>desenvolvimento web</b> (HTML, CSS e JavaScript). Já coloquei o que aprendi em prática em projetos próprios: um gerenciador de finanças no terminal, uma API que analisa conversas do WhatsApp e o meu portfólio pessoal, publicado no GitHub Pages. Também tenho formação complementar pela Cisco Networking Academy, IBM SkillsBuild e Instituto Federal do Rio Grande do Sul.
+</p>
+
+<p>
+  Minha primeira experiência profissional foi como estagiária de almoxarifado, onde desenvolvi organização, responsabilidade e atenção aos detalhes.
+</p>
+
+<p>
+  <b>Portfólio:</b> <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/">mariaeduarda-simoes.github.io/portfolio-profissional</a>
 </p>
 
 <p>
@@ -32,15 +40,32 @@
 
 <hr/>
 
-<h2>💜 Tecnologias</h2>
+<h2>💜 Linguagens</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" alt="Python e Git" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS e JavaScript" />
 </p>
 
 <p>
   <b>Python</b> · Nível intermediário: entrada de dados no terminal, estruturas condicionais e laços, manipulação de arquivos JSON<br/>
-  <b>Git</b> · Commits, push e versionamento de projetos
+  <b>HTML e CSS</b> · Estrutura e estilização de páginas, com layout adaptado para celular<br/>
+  <b>JavaScript</b> · Nível iniciante: rolagem suave, tema claro e escuro e interações na página
+</p>
+
+<hr/>
+
+<h2>💜 Tecnologias</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" alt="FastAPI, Git, GitHub e VS Code" />
+</p>
+
+<p>
+  <b>FastAPI</b> · Criação de APIs em Python<br/>
+  <b>pandas e matplotlib</b> · Análise de dados e geração de gráficos<br/>
+  <b>Git e GitHub</b> · Commits, push, pull e versionamento de projetos<br/>
+  <b>GitHub Pages</b> · Publicação de sites estáticos<br/>
+  <b>VS Code</b> · Editor que uso no dia a dia
 </p>
 
 <hr/>
@@ -54,14 +79,66 @@
 </p>
 
 <p>
-  <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute<br/>
+  <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute · 30 horas<br/>
   Conceitos de programação, sintaxe e semântica do Python e resolução de desafios de código.<br/>
   <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">Verificar medalha no Credly</a>
+</p>
+
+<p>
+  <b>CSS3: Estilizando Páginas Web com Estilo</b> · Instituto Federal do Rio Grande do Sul (IFRS) · 40 horas<br/>
+  Estilização de páginas web, com foco em layout, cores, tipografia e organização do CSS.
+</p>
+
+<p>
+  <b>Information Technology Fundamentals</b> · IBM SkillsBuild · 12 horas<br/>
+  Fundamentos de Tecnologia da Informação.
 </p>
 
 <hr/>
 
 <h2>💜 Projetos</h2>
+
+<h3>Portfólio Pessoal</h3>
+
+<p>
+  Site pessoal para apresentar minha formação, meus certificados e meus projetos, feito do zero com HTML, CSS e JavaScript puro.
+</p>
+
+<ul>
+  <li>Tema claro e escuro, com a escolha salva no navegador</li>
+  <li>Rolagem suave e menu que destaca a seção atual</li>
+  <li>Certificados com visualização ampliada</li>
+  <li>Layout adaptado para celular</li>
+</ul>
+
+<p>
+  <b>Tecnologias:</b> HTML, CSS, JavaScript
+</p>
+
+<p>
+  <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/">
+    <img src="https://img.shields.io/badge/Ver_site-4D4D4D?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Ver site do portfólio" />
+  </a>
+  <a href="https://github.com/mariaeduarda-simoes/portfolio-profissional">
+    <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-4D4D4D?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Ver código do portfólio" />
+  </a>
+</p>
+
+<h3>WhatsApp Analyzer</h3>
+
+<p>
+  API que recebe uma conversa exportada do WhatsApp e gera estatísticas e gráficos sobre ela. Foi o meu primeiro projeto com API.
+</p>
+
+<p>
+  <b>Tecnologias:</b> Python, FastAPI, pandas, matplotlib
+</p>
+
+<p>
+  <a href="https://github.com/mariaeduarda-simoes/whatsapp-analyzer">
+    <img src="https://img.shields.io/badge/Ver_projeto-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Ver projeto WhatsApp Analyzer" />
+  </a>
+</p>
 
 <h3>Gerenciador de Finanças Pessoais</h3>
 
@@ -99,9 +176,9 @@
 <h2>💜 Estudando agora</h2>
 
 <ul>
-  <li>Python: funções e organização de código</li>
+  <li>Python: organização de código e criação de APIs com FastAPI</li>
+  <li>JavaScript: fundamentos e interação com a página</li>
   <li>Git e GitHub: boas práticas de commits e documentação</li>
-  <li>Próximo projeto: portfólio pessoal</li>
 </ul>
 
 <hr/>
@@ -117,7 +194,7 @@
 <h2>💜 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-sim%C3%B5es-silva-4b2117323/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>&emsp;&emsp;<a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge" alt="Portfólio" /></a>
 </p>
 
 <img
