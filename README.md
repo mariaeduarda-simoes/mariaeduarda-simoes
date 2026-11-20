@@ -23,11 +23,7 @@
 </p>
 
 <p>
-  Venho desenvolvendo meus conhecimentos em <b>lógica de programação</b>, <b>Python</b> e <b>desenvolvimento web</b> (HTML, CSS e JavaScript). Já coloquei o que aprendi em prática em projetos próprios: um gerenciador de finanças no terminal, uma API que analisa conversas do WhatsApp e o meu portfólio pessoal, publicado no GitHub Pages. Também tenho formação complementar pela Cisco Networking Academy, IBM SkillsBuild e Instituto Federal do Rio Grande do Sul.
-</p>
-
-<p>
-  Minha primeira experiência profissional foi como estagiária de almoxarifado, onde desenvolvi organização, responsabilidade e atenção aos detalhes.
+  Venho desenvolvendo meus conhecimentos em <b>lógica de programação</b>, <b>Python</b> e <b>desenvolvimento web</b> (HTML, CSS e JavaScript). Já coloquei o que aprendi em prática em projetos próprios: um gerenciador de finanças no terminal, uma API que analisa conversas do WhatsApp e o meu portfólio pessoal, publicado no GitHub Pages.
 </p>
 
 <p>
@@ -65,33 +61,8 @@
   <b>pandas e matplotlib</b> · Análise de dados e geração de gráficos<br/>
   <b>Git e GitHub</b> · Commits, push, pull e versionamento de projetos<br/>
   <b>GitHub Pages</b> · Publicação de sites estáticos<br/>
+  <b>Excel e Word</b> · Organização e atualização de planilhas e documentos<br/>
   <b>VS Code</b> · Editor que uso no dia a dia
-</p>
-
-<hr/>
-
-<h2>💜 Certificações</h2>
-
-<p>
-  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">
-    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Medalha Python Essentials 1 - Cisco" width="130" />
-  </a>
-</p>
-
-<p>
-  <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute · 30 horas<br/>
-  Conceitos de programação, sintaxe e semântica do Python e resolução de desafios de código.<br/>
-  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">Verificar medalha no Credly</a>
-</p>
-
-<p>
-  <b>CSS3: Estilizando Páginas Web com Estilo</b> · Instituto Federal do Rio Grande do Sul (IFRS) · 40 horas<br/>
-  Estilização de páginas web, com foco em layout, cores, tipografia e organização do CSS.
-</p>
-
-<p>
-  <b>Information Technology Fundamentals</b> · IBM SkillsBuild · 12 horas<br/>
-  Fundamentos de Tecnologia da Informação.
 </p>
 
 <hr/>
@@ -163,13 +134,55 @@
   </a>
 </p>
 
-<!-- Quando tiver o GIF/print, descomente:
-<p align="center">
-  <img src="assets/demo.gif" width="600" alt="Demonstração do gerenciador de finanças" />
-</p>
--->
-
 <p>Novos projetos em breve.</p>
+
+<hr/>
+
+<h2>💜 Experiência</h2>
+
+<p>
+  <b>Estagiária de almoxarifado</b> · Querubim Saúde<br/>
+  Organizava e atualizava cerca de 40 planilhas por dia no Excel, desenvolvendo organização, responsabilidade e atenção aos detalhes.
+</p>
+
+<hr/>
+
+<h2>💜 Formação e certificações</h2>
+
+<p>
+  <b>Engenharia de Software</b> · UDF (Universidade do Distrito Federal) · em andamento
+</p>
+
+<p>
+  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Medalha Python Essentials 1 - Cisco" width="130" />
+  </a>
+</p>
+
+<p>
+  <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute · 30 horas<br/>
+  Conceitos de programação, sintaxe e semântica do Python e resolução de desafios de código.<br/>
+  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">Verificar medalha no Credly</a>
+</p>
+
+<p>
+  <b>CSS3: Estilizando Páginas Web com Estilo</b> · Instituto Federal do Rio Grande do Sul (IFRS) · 40 horas<br/>
+  Estilização de páginas web, com foco em layout, cores, tipografia e organização do CSS.
+</p>
+
+<p>
+  <b>Information Technology Fundamentals</b> · IBM SkillsBuild · 12 horas<br/>
+  Fundamentos de Tecnologia da Informação.
+</p>
+
+<hr/>
+
+<h2>💜 Idiomas</h2>
+
+<p>
+  <b>Português</b> · Nativo<br/>
+  <b>Inglês</b> · Básico
+</p>
 
 <hr/>
 
