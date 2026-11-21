@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=8B5CF6&height=160&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=170&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&height=36&lines=Estudante+de+Engenharia+de+Software;Python%2C+APIs+e+desenvolvimento+web;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&height=36&lines=Estudante+de+Engenharia+de+Software;Python%2C+APIs+e+desenvolvimento+web;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-8B5CF6?style=flat-square&labelColor=1F2937" alt="Brasília" />
-  <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-8B5CF6?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-8B5CF6?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-2563EB?style=flat-square&labelColor=1F2937" alt="Brasília" />
+  <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-2563EB?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-2563EB?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
 </p>
 
 </div>
 
 <hr/>
 
-<h2>💜 Sobre mim</h2>
+<h2>💙 Sobre mim</h2>
 
 <p>
   Sou estudante de Engenharia de Software na <b>UDF</b>, em Brasília-DF.
@@ -36,7 +36,7 @@
 
 <hr/>
 
-<h2>💜 Linguagens</h2>
+<h2>💙 Linguagens</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS e JavaScript" />
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h2>💜 Tecnologias</h2>
+<h2>💙 Tecnologias</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" alt="FastAPI, Git, GitHub e VS Code" />
@@ -65,7 +65,7 @@
 
 <hr/>
 
-<h2>💜 Projetos</h2>
+<h2>💙 Projetos</h2>
 
 <p>Projetos que construí enquanto estudo. Todos têm o código aberto no GitHub.</p>
 
@@ -75,37 +75,37 @@
       <h3>Portfólio Pessoal</h3>
       <p>Site para apresentar formação, certificados e projetos, feito do zero. Tem tema claro e escuro, rolagem suave e layout para celular.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-1F2937?style=flat-square&logo=html5&logoColor=A78BFA" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1F2937?style=flat-square&logo=css3&logoColor=A78BFA" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=A78BFA" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML-1F2937?style=flat-square&logo=html5&logoColor=3B82F6" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1F2937?style=flat-square&logo=css3&logoColor=3B82F6" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=3B82F6" alt="JavaScript" />
       </p>
       <p>
-        <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Ver_site-4D4D4D?style=flat-square&logo=githubpages&logoColor=A78BFA" alt="Ver site" /></a>
-        <a href="https://github.com/mariaeduarda-simoes/portfolio-profissional"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+        <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Ver_site-4D4D4D?style=flat-square&logo=githubpages&logoColor=3B82F6" alt="Ver site" /></a>
+        <a href="https://github.com/mariaeduarda-simoes/portfolio-profissional"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=3B82F6" alt="Ver código" /></a>
       </p>
     </td>
     <td valign="top" width="33%">
       <h3>WhatsApp Analyzer</h3>
       <p>API que recebe uma conversa exportada do WhatsApp e devolve estatísticas e gráficos. Meu primeiro projeto com API.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/pandas-1F2937?style=flat-square&logo=pandas&logoColor=A78BFA" alt="pandas" />
+        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3B82F6" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=3B82F6" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/pandas-1F2937?style=flat-square&logo=pandas&logoColor=3B82F6" alt="pandas" />
         <img src="https://img.shields.io/badge/matplotlib-1F2937?style=flat-square" alt="matplotlib" />
       </p>
       <p>
-        <a href="https://github.com/mariaeduarda-simoes/whatsapp-analyzer"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+        <a href="https://github.com/mariaeduarda-simoes/whatsapp-analyzer"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=3B82F6" alt="Ver código" /></a>
       </p>
     </td>
     <td valign="top" width="33%">
       <h3>Gerenciador de Finanças</h3>
       <p>Programa de terminal para cadastrar receitas e despesas, calcular o saldo e ver o total por categoria. Os dados ficam salvos em JSON.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
-        <img src="https://img.shields.io/badge/JSON-1F2937?style=flat-square&logo=json&logoColor=A78BFA" alt="JSON" />
+        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3B82F6" alt="Python" />
+        <img src="https://img.shields.io/badge/JSON-1F2937?style=flat-square&logo=json&logoColor=3B82F6" alt="JSON" />
       </p>
       <p>
-        <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+        <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=3B82F6" alt="Ver código" /></a>
       </p>
     </td>
   </tr>
@@ -116,7 +116,7 @@
 <hr/>
 
 
-<h2>💜 Experiência profissional</h2>
+<h2>💙 Experiência profissional</h2>
 
 <p>
   <b>Estagiária de Almoxarifado | Querubim Saúde</b>
@@ -134,7 +134,7 @@
 
 <hr/>
 
-<h2>💜 Certificações</h2>
+<h2>💙 Certificações</h2>
 
 <p>
   <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">
@@ -145,7 +145,6 @@
 <p>
   <b>Python Essentials 1</b> · Cisco Networking Academy e OpenEDG Python Institute · 30 horas<br/>
   Conceitos de programação, sintaxe e semântica do Python e resolução de desafios de código.<br/>
-  <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">Verificar medalha no Credly</a>
 </p>
 
 <p>
@@ -160,7 +159,7 @@
 
 <hr/>
 
-<h2>💜 Idiomas</h2>
+<h2>💙 Idiomas</h2>
 
 <p>
   <b>Português</b> · Nativo<br/>
@@ -170,7 +169,7 @@
 <hr/>
 
 
-<h2>💜 Atualmente estudando</h2>
+<h2>💙 Atualmente estudando</h2>
 
 <ul>
   <li><b>Python:</b> organização de projetos, estruturação de código e desenvolvimento de APIs com FastAPI.</li>
@@ -180,7 +179,7 @@
 
 <hr/>
 
-<h2>💜 Contribuições</h2>
+<h2>💙 Contribuições</h2>
 
 <p align="center">
   <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mariaeduarda-simoes/mariaeduarda-simoes/output/github-snake-dark.svg" />
@@ -188,13 +187,13 @@
 
 <hr/>
 
-<h2>💜 Contato</h2>
+<h2>💙 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-sim%C3%B5es-silva-4b2117323/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge" alt="E-mail" /></a>&emsp;&emsp;<a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-sim%C3%B5es-silva-4b2117323/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn" /></a>&emsp;&emsp;<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/E--mail-2563EB?style=for-the-badge" alt="E-mail" /></a>&emsp;&emsp;<a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge" alt="Portfólio" /></a>
 </p>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer&text=Desenvolvimento%20de%20Software&fontColor=FFFFFF&fontSize=25&desc=Estudando%20programa%C3%A7%C3%A3o%20e%20colocando%20meus%20conhecimentos%20em%20pr%C3%A1tica&descSize=15&descColor=FFFFFF&descAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer&text=Desenvolvimento%20de%20Software&fontColor=FFFFFF&fontSize=25&desc=Estudando%20programa%C3%A7%C3%A3o%20e%20colocando%20meus%20conhecimentos%20em%20pr%C3%A1tica&descSize=15&descColor=FFFFFF&descAlignY=70"
 />
