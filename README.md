@@ -1,19 +1,12 @@
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=170&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&height=36&lines=Estudante+de+Engenharia+de+Software;Python%2C+APIs+e+desenvolvimento+web;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-2563EB?style=flat-square&labelColor=1F2937" alt="Brasília" />
-  <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-2563EB?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-2563EB?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=190&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&height=32&lines=Estudante+de+Engenharia+de+Software;Python%2C+APIs+e+desenvolvimento+web;Em+busca+de+est%C3%A1gio" alt="Typing animation" />
+<br/>
+<img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-2563EB?style=flat-square&labelColor=1F2937" alt="Brasília" />
+<img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-2563EB?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-2563EB?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
 </div>
-
 <hr/>
 
 <h2>💙 Sobre mim</h2>
