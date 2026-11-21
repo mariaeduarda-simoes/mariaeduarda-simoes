@@ -58,10 +58,8 @@
 
 <p>
   <b>FastAPI</b> · Criação de APIs em Python<br/>
-  <b>pandas e matplotlib</b> · Análise de dados e geração de gráficos<br/>
   <b>Git e GitHub</b> · Commits, push, pull e versionamento de projetos<br/>
   <b>GitHub Pages</b> · Publicação de sites estáticos<br/>
-  <b>Excel e Word</b> · Organização e atualização de planilhas e documentos<br/>
   <b>VS Code</b> · Editor que uso no dia a dia
 </p>
 
@@ -117,20 +115,26 @@
 
 <hr/>
 
-<h2>💜 Experiência</h2>
+
+<h2>💜 Experiência profissional</h2>
 
 <p>
-  <b>Estagiária de almoxarifado</b> · Querubim Saúde<br/>
-  Organizava e atualizava cerca de 40 planilhas por dia no Excel, desenvolvendo organização, responsabilidade e atenção aos detalhes.
+  <b>Estagiária de Almoxarifado | Querubim Saúde</b>
 </p>
+
+<p>
+  Atuação nas rotinas administrativas do almoxarifado, com organização e atualização diária de aproximadamente 40 planilhas no Microsoft Excel.
+</p>
+
+<ul>
+  <li>Atualização e manutenção de planilhas utilizadas pelo setor.</li>
+  <li>Registro e organização de informações administrativas.</li>
+  <li>Suporte às demandas de controle e acompanhamento das atividades do almoxarifado.</li>
+</ul>
 
 <hr/>
 
-<h2>💜 Formação e certificações</h2>
-
-<p>
-  <b>Engenharia de Software</b> · UDF (Universidade do Distrito Federal) · em andamento
-</p>
+<h2>💜 Certificações</h2>
 
 <p>
   <a href="https://www.credly.com/badges/87873c40-bd95-4697-9f97-2554c5551e7f/public_url">
@@ -165,12 +169,13 @@
 
 <hr/>
 
-<h2>💜 Estudando agora</h2>
+
+<h2>💜 Atualmente estudando</h2>
 
 <ul>
-  <li>Python: organização de código e criação de APIs com FastAPI</li>
-  <li>JavaScript: fundamentos e interação com a página</li>
-  <li>Git e GitHub: boas práticas de commits e documentação</li>
+  <li><b>Python:</b> organização de projetos, estruturação de código e desenvolvimento de APIs com FastAPI.</li>
+  <li><b>JavaScript:</b> fundamentos da linguagem e implementação de funcionalidades interativas em páginas web.</li>
+  <li><b>Git e GitHub:</b> controle de versões, gerenciamento de repositórios e documentação de projetos.</li>
 </ul>
 
 <hr/>
