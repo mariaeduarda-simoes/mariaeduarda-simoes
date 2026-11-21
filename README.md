@@ -69,70 +69,49 @@
 
 <h2>💜 Projetos</h2>
 
-<h3>Portfólio Pessoal</h3>
+<p>Projetos que construí enquanto estudo. Todos têm o código aberto no GitHub.</p>
 
-<p>
-  Site pessoal para apresentar minha formação, meus certificados e meus projetos, feito do zero com HTML, CSS e JavaScript puro.
-</p>
-
-<ul>
-  <li>Tema claro e escuro, com a escolha salva no navegador</li>
-  <li>Rolagem suave e menu que destaca a seção atual</li>
-  <li>Certificados com visualização ampliada</li>
-  <li>Layout adaptado para celular</li>
-</ul>
-
-<p>
-  <b>Tecnologias:</b> HTML, CSS, JavaScript
-</p>
-
-<p>
-  <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/">
-    <img src="https://img.shields.io/badge/Ver_site-4D4D4D?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Ver site do portfólio" />
-  </a>
-  <a href="https://github.com/mariaeduarda-simoes/portfolio-profissional">
-    <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-4D4D4D?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Ver código do portfólio" />
-  </a>
-</p>
-
-<h3>WhatsApp Analyzer</h3>
-
-<p>
-  API que recebe uma conversa exportada do WhatsApp e gera estatísticas e gráficos sobre ela. Foi o meu primeiro projeto com API.
-</p>
-
-<p>
-  <b>Tecnologias:</b> Python, FastAPI, pandas, matplotlib
-</p>
-
-<p>
-  <a href="https://github.com/mariaeduarda-simoes/whatsapp-analyzer">
-    <img src="https://img.shields.io/badge/Ver_projeto-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Ver projeto WhatsApp Analyzer" />
-  </a>
-</p>
-
-<h3>Gerenciador de Finanças Pessoais</h3>
-
-<p>
-  Meu primeiro projeto em Python: um programa de terminal para controlar finanças pessoais.
-</p>
-
-<ul>
-  <li>Cadastro de receitas e despesas</li>
-  <li>Cálculo de saldo</li>
-  <li>Total por categoria</li>
-  <li>Dados salvos em arquivo JSON</li>
-</ul>
-
-<p>
-  <b>Tecnologias:</b> Python, JSON
-</p>
-
-<p>
-  <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python">
-    <img src="https://img.shields.io/badge/Ver_projeto-4D4D4D?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Ver projeto Gerenciador de Finanças" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Portfólio Pessoal</h3>
+      <p>Site para apresentar formação, certificados e projetos, feito do zero. Tem tema claro e escuro, rolagem suave e layout para celular.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-1F2937?style=flat-square&logo=html5&logoColor=A78BFA" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1F2937?style=flat-square&logo=css3&logoColor=A78BFA" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=A78BFA" alt="JavaScript" />
+      </p>
+      <p>
+        <a href="https://mariaeduarda-simoes.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Ver_site-4D4D4D?style=flat-square&logo=githubpages&logoColor=A78BFA" alt="Ver site" /></a>
+        <a href="https://github.com/mariaeduarda-simoes/portfolio-profissional"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>WhatsApp Analyzer</h3>
+      <p>API que recebe uma conversa exportada do WhatsApp e devolve estatísticas e gráficos. Meu primeiro projeto com API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/pandas-1F2937?style=flat-square&logo=pandas&logoColor=A78BFA" alt="pandas" />
+        <img src="https://img.shields.io/badge/matplotlib-1F2937?style=flat-square" alt="matplotlib" />
+      </p>
+      <p>
+        <a href="https://github.com/mariaeduarda-simoes/whatsapp-analyzer"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Gerenciador de Finanças</h3>
+      <p>Programa de terminal para cadastrar receitas e despesas, calcular o saldo e ver o total por categoria. Os dados ficam salvos em JSON.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+        <img src="https://img.shields.io/badge/JSON-1F2937?style=flat-square&logo=json&logoColor=A78BFA" alt="JSON" />
+      </p>
+      <p>
+        <a href="https://github.com/mariaeduarda-simoes/gerenciador-financas-python"><img src="https://img.shields.io/badge/C%C3%B3digo-4D4D4D?style=flat-square&logo=github&logoColor=A78BFA" alt="Ver código" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p>Novos projetos em breve.</p>
 
